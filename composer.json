@@ -1,5 +1,5 @@
 {
-    "name": "gonoware/laravel-maps",
+    "name": "xxaxxo/laravel-maps",
     "description": "Maps for your Laravel application",
     "keywords": [
         "maps",
@@ -35,8 +35,8 @@
     ],
     "type": "library",
     "require": {
-        "php": "^8.1",
-        "illuminate/support": "^9.0"
+        "php": "^8.2",
+        "illuminate/support": "^10.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.4.4",
